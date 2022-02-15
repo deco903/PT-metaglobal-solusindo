@@ -1,0 +1,2 @@
+SELECT * FROM transfer_table
+WHERE avability_transfer > 50;
